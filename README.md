@@ -51,6 +51,7 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Other commands
+组件库，包含的有按钮组件，icon组件，input组件，多级菜单组件（自动生成菜单id），autoComplete组件
 
 ### Lint commands
 

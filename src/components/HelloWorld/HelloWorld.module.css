@@ -13,3 +13,6 @@
   border-radius: 4px;
   color: #304455;
 }
+.primary{
+  color: var(--color-primary);
+}

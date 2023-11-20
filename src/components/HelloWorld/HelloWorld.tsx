@@ -13,7 +13,7 @@ export default function HelloWorld(props: HelloWorldProps) {
 
   return (
     <div className={styles.HelloWorld}>
-      <h1 data-testid="title">{props.msg}</h1>
+      <h1 data-testid="title" className={styles.primary}>{props.msg}</h1>
 
       <p>
         Recommended IDE setup:{" "}
